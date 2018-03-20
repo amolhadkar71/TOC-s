@@ -1,0 +1,5 @@
+Memory management
+https://msdn.microsoft.com/en-us/library/windows/desktop/cc441804(v=vs.85).aspx
+
+Memory pools
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa965226(v=vs.85).aspx
