@@ -1,0 +1,32 @@
+Memory management
+https://msdn.microsoft.com/en-us/library/windows/desktop/cc441804(v=vs.85).aspx
+
+Memory pools
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa965226(v=vs.85).aspx
+
+nm jo`x1file attributes:
+https://www.2brightsparks.com/resources/articles/understanding-file-attributes.html
+
+MEMORY POOL TYPES:
+https://www.ibm.com/support/knowledgecenter/en/ssw_i5_54/rzaks/rzakstypesmempools.htm
+
+linux booting proces:
+https://www.bing.com/search?q=booting%20process%20steps%20in%20linux&qs=n&form=QBRE&sp=-1&pq=undefined&sc=0-26&sk=&cvid=18A5189E909D4407B6056B809370F0C2
+
+
+working set of paging:
+http://www.informit.com/articles/article.aspx?p=25260&seqNum=9
+
+
+HARDLINKS OR SOFTLINKS:
+https://cects.com/overview-to-understanding-hard-links-junction-points-and-symbolic-links-in-windows/
+
+
+FILE SYSTEM TYPES
+https://support.microsoft.com/en-us/help/100108/overview-of-fat-hpfs-and-ntfs-file-systems
+
+WORKING SET AND THRASHING:
+http://web.stanford.edu/~ouster/cgi-bin/cs140-winter12/lecture.php?topic=thrashing
+
+PAGING:
+https://www.tutorialspoint.com/operating_system/os_memory_management.htm
